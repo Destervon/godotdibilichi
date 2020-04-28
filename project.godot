@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="dibilichi"
+config/name="Test"
 run/main_scene="res://mainui.tscn"
 config/icon="res://icon.png"
 
